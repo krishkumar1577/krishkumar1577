@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Krish Kumar (@krishkumar1577)
+# 👋 Hi, I’m Krish  (@krishkumar1577)
 
 ## About Me
 - 🎓 I’m a university student currently pursuing a degree in Computer Science.
