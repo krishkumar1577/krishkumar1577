@@ -28,9 +28,3 @@
 
 ---
 
-This repository contains a special README file that appears on my GitHub profile. Click the Preview link to take a look at my changes.
-
-<!---
-krishkumar1577/krishkumar1577 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
