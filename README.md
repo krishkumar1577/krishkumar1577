@@ -5,6 +5,8 @@
 - 🌟 My goal is to become a proficient software developer and eventually launch my own startup.
 - 🧠 I’m passionate about coding, physical activity, and continuous learning.
 
+![Image](kode)
+
 ## Interests
 - 👀 I’m interested in web development, particularly using HTML, CSS, and JavaScript.
 - 💻 I love working on data structures and algorithms to sharpen my problem-solving skills.
