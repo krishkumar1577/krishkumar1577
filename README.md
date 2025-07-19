@@ -18,6 +18,15 @@
 - 💞️ I’m looking to collaborate on open-source projects related to web development and problem-solving challenges.
 - 🚀 I’m also interested in working on innovative projects that can make a positive impact.
 
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=krishkumar1577&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krishkumar1577&theme=dark&hide_border=false)<br/>
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishkumar1577&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishkumar1577&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai))
+
+
 ## How to Reach Me
 - 📫 You can reach me via email at (krishkumar1441981@gmail.com)
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/krishkumar1577/).
