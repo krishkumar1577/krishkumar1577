@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Krish  (@krishkumar1577)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishkumar1577&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsoni891" />
+</p>
+
 ## About Me
 - 🎓 I’m a university student currently pursuing a degree in Computer Science.
 - 🌟 My goal is to become a proficient software developer and eventually launch my own startup.
